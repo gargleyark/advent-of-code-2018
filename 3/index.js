@@ -12,8 +12,8 @@ templates.forEach(template => {
   let width = parseInt(template.match(/(\d+)x/)[1]);
   let height = parseInt(template.match(/x(\d+)/)[1]);
 
-  while (width > 0) {
-    while (height > 0) {
+  while (width >= 0) {
+    while (height >= 0) {
       if (cloth[width + left] === undefined) {
         cloth[width + left] = {};
       }
