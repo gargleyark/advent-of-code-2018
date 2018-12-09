@@ -1,5 +1,18 @@
 # advent of code 2018
 
+- [x] Day 1
+- [x] Day 1 Part 2
+- [x] Day 2
+- [x] Day 2 Part 2
+- [ ] Day 3
+- [ ] Day 3 Part 2
+- [x] Day 4
+- [x] Day 4 Part 2
+- [x] Day 5
+- [x] Day 5 Part 2
+- [ ] Day 6
+- [ ] Day 6 Part 2
+
 ## Project setup
 
 ```
