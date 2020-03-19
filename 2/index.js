@@ -5,7 +5,7 @@ console.log('starting day 2...');
 let doubleChars = 0;
 let trippleChars = 0;
 
-ids.forEach(id => {rwsetdrftjgykhjk
+ids.forEach(id => {
   let hasTwoChars = false;
   let hasThreeChars = false;
 

@@ -28,7 +28,5 @@ For example, if I wanted to run day 4 part 2, I would run `npm start 4.5`
 - [x] Day 4 Part 2
 - [x] Day 5
 - [x] Day 5 Part 2
-- [ ] Day 6
+- [x] Day 6
 - [ ] Day 6 Part 2
-- [x] Day 7
-- [ ] Day 7 Part 2
