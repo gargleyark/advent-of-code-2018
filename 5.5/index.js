@@ -15,7 +15,7 @@ const reduceComponents = (item, index, array) => {
     array.splice(index, 2);
     matches = true;
   }
-};
+};a wfesgrdhtfjygkuh
 
 const areOpposites = (a, b) => {
   const charCodeA = a.charCodeAt(0);
